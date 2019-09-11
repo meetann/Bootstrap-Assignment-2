@@ -1,0 +1,22 @@
+.carousel-inner{
+	max-height: 500px;
+	width: 100%;
+	background-size: cover;
+}
+
+.image-height{
+	width:100%;
+}
+
+.pic-of-column{
+	width: 70%;
+	height: 50%;
+	margin-left: 20px;
+}
+
+.row-features{
+	background-color: lightgray;
+	margin-bottom: 0;
+	height: 100%;
+
+}
