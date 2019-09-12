@@ -4,11 +4,11 @@
 	background-size: cover;
 }
 
-.pic-of-column{
+/* .pic-of-column{
 	width: 70%;
 	height: 50%;
 	margin-left: 20px;
-}
+} */
 
 .footer-icon:hover{
 	color: blue;
@@ -40,6 +40,7 @@
   .jumbotron video {
 	position: absolute;
 	z-index: 1;
+	margin: 0;
 	top: 0;
 	width:100%;
 	height:100%;
